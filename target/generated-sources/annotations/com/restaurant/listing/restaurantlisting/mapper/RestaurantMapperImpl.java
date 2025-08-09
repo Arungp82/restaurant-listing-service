@@ -6,7 +6,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-07-24T06:34:40+0530",
+    date = "2025-07-24T14:48:13+0530",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 17.0.9 (Oracle Corporation)"
 )
 public class RestaurantMapperImpl implements RestaurantMapper {
